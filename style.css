@@ -1,0 +1,20 @@
+.thumbnail {
+    height: 200px;
+    width: 200px; 
+}
+
+.first{
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+@media only screen and (max-width:750px) {
+    .description {
+        padding:0;
+    }
+}
+.picture {
+    height: 100px;
+    width: 100px;
+}
