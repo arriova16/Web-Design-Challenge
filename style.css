@@ -1,6 +1,7 @@
 .thumbnail {
     height: 200px;
     width: 200px; 
+    margin: 6px;
 }
 
 .first{
@@ -20,9 +21,9 @@
 }
 .another {
     margin-top: 100px;
-} */
+} 
 .another1 { 
-    margin-top: 200px;
+    margin-top: 50px;
     font-size: 20px;
 }
 
@@ -36,9 +37,31 @@
     font-size: 15px;
 }
 .something {
-    padding: 30px;
+    margin-top: 100px;
 }
 .first1 {
     height: 300px;
     width: 300px;
+}
+.anothersomething {
+    margin-left: -30px;
+}
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .first2 {
+      height: auto;
+      width: 50px;
+  }
+.img-main {
+    max-width: 330px;
+    margin: 6px;
+}
+.img-comp {
+    max-width: 280px;
+    margin: 6px;
+}
+.cloudinessStuff {
+    font-size: 15px;
 }
